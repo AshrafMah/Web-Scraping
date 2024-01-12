@@ -1,1 +1,3 @@
-Scrape a mobile page at Amazon website using Selenium.
+Scrape a mobile page on the Amazon website using Selenium.
+Use Amazon_Mobile_Scraping.ipynb file to run the code.
+The output is attached as a csv file. 
